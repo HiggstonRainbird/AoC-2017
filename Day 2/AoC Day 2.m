@@ -17,7 +17,7 @@
 
 
 (* ::Input:: *)
-(*Total[Max[#]-Min[#]&/@Import[FileNameJoin[{NotebookDirectory[],"Day2Input.txt"}],"Table"][[;;-2]]]*)
+(*Total[(Max[#1]-Min[#1]&)/@input]*)
 
 
 (* ::Subsubsection:: *)
