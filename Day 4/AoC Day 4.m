@@ -12,6 +12,9 @@
 (*input=Import[FileNameJoin[{NotebookDirectory[],"Day4Input.txt"}],"Table"][[;;-2]];*)
 
 
+input
+
+
 (* ::Subsubsection:: *)
 (*Part 1*)
 
