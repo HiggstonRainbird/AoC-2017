@@ -8,5 +8,5 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * [Day 1](./Day 1/): Inverse Captcha
 * [Day 2](./Day 2/): Corruption Checksum
 * **[Day 3](./Day 3/)**: Spiral Memory
-* [Day 4](./Day 4/): High-Entropy Passphrases
-* [Day 5](./Day 5/): A Maze of Twisty Trampolines, All Alike
+* [Day 4](Day 4/): High-Entropy Passphrases
+* [Day 5](Day 5): A Maze of Twisty Trampolines, All Alike
