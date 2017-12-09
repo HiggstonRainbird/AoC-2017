@@ -13,3 +13,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 6: Memory Reallocation
 * **Day 7**: Recursive Circus
 * Day 8: I Heard You Like Registers
+* Day 9: Stream Processing
