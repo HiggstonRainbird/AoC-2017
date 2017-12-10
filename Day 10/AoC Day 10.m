@@ -14,16 +14,11 @@ skipSize=0;
 l=Range[0,255];
 
 Do[
-
-l=RotateLeft[l,pos];
-
-l[[;;i]]=Reverse[l[[;;i]]];
-
-l=RotateRight[l,pos];
-
-pos=Mod[pos+i+skipSize,Length[l]];
-skipSize++;
-
+	l=RotateLeft[l,pos];
+	l[[;;i]]=Reverse[l[[;;i]]];
+	l=RotateRight[l,pos];
+	pos=Mod[pos+i+skipSize,Length[l]];
+	skipSize++
 ,{i,input}];
 
 Print[l[[1]]*l[[2]]]
@@ -40,16 +35,11 @@ skipSize=0;
 l=Range[0,255];
 
 Do[
-
-l=RotateLeft[l,pos];
-
-l[[;;i]]=Reverse[l[[;;i]]];
-
-l=RotateRight[l,pos];
-
-pos=Mod[pos+i+skipSize,Length[l]];
-skipSize++;
-
+	l=RotateLeft[l,pos];
+	l[[;;i]]=Reverse[l[[;;i]]];
+	l=RotateRight[l,pos];
+	pos=Mod[pos+i+skipSize,Length[l]];
+	skipSize++
 ,{j,64},{i,input}];
 
 BaseForm[FromDigits[BitXor@@#&/@Partition[l,16],256],16]
