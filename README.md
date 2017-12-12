@@ -16,3 +16,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 9: Stream Processing
 * Day 10: Knot Hash
 * Day 11: Hex Ed
+* Day 12: Digital Plumber
