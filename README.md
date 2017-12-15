@@ -19,3 +19,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 12: Digital Plumber
 * **Day 13: Packet Scanner** (This code is currently a mess, and will be a mess until I get the Chinese Remainder Theorem working to speed it up.)
 * Day 14: Disk Defragmentation
+* Day 15: Dueling Generators
