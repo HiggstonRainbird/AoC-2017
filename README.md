@@ -23,3 +23,5 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 16: Permutation Promenade
 * **Day 17: Spinlock** (This has an Upping The Ante part to it, going well beyond the limits of a brute-force search)
 * Day 18: Duet
+* Day 19: A Series of Tubes
+* Day 20: Particle Swarm
