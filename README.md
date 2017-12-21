@@ -25,3 +25,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 18: Duet
 * Day 19: A Series of Tubes
 * Day 20: Particle Swarm
+* Day 21: Fractal Art
