@@ -26,3 +26,5 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 19: A Series of Tubes
 * Day 20: Particle Swarm
 * Day 21: Fractal Art
+* Day 22: [NOT YET COMPLETED]
+* Day 23: Coprocessor Conflagration
