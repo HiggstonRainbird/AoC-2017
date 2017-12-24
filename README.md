@@ -28,3 +28,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2017/) s
 * Day 21: Fractal Art
 * Day 22: [NOT YET COMPLETED]
 * **Day 23: Coprocessor Conflagration** (As part of Upping The Ante, the solution to part 1 and part 2 of this problem are included both in Mathematica and in TI-89 BASIC)
+* Day 24: Electromagnetic Moat
